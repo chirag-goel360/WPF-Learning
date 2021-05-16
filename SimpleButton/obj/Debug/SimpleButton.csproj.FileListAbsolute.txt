@@ -1,0 +1,15 @@
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\bin\Debug\SimpleButton.exe.config
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\bin\Debug\SimpleButton.exe
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\bin\Debug\SimpleButton.pdb
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.csprojAssemblyReference.cache
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\MainWindow.g.cs
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\App.g.cs
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton_MarkupCompile.cache
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton_MarkupCompile.lref
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\MainWindow.baml
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.g.resources
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.Properties.Resources.resources
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.csproj.GenerateResource.cache
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.exe
+C:\Users\chira\source\repos\SimpleButton\SimpleButton\obj\Debug\SimpleButton.pdb
