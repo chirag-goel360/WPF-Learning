@@ -1,0 +1,15 @@
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\bin\Debug\HelloWorldWPF.exe.config
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\bin\Debug\HelloWorldWPF.exe
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\bin\Debug\HelloWorldWPF.pdb
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.csprojAssemblyReference.cache
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\MainWindow.g.cs
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\App.g.cs
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF_MarkupCompile.cache
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF_MarkupCompile.lref
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\MainWindow.baml
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.g.resources
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.Properties.Resources.resources
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.csproj.GenerateResource.cache
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.exe
+C:\Users\chira\source\repos\HelloWorldWPF\HelloWorldWPF\obj\Debug\HelloWorldWPF.pdb
