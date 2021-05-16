@@ -1,0 +1,15 @@
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\bin\Debug\ButtonUsingCS.exe.config
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\bin\Debug\ButtonUsingCS.exe
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\bin\Debug\ButtonUsingCS.pdb
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.csprojAssemblyReference.cache
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\MainWindow.g.cs
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\App.g.cs
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS_MarkupCompile.cache
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS_MarkupCompile.lref
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\MainWindow.baml
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.g.resources
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.Properties.Resources.resources
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.csproj.GenerateResource.cache
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.exe
+C:\Users\chira\source\repos\ButtonUsingCS\ButtonUsingCS\obj\Debug\ButtonUsingCS.pdb
