@@ -1,0 +1,15 @@
+﻿<Window x:Class="Events.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Events"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!-- <Button Content="Click Me" Height="70" Width="100" Click="Button_Click" FontSize="18"></Button> -->
+        <!-- <Button Content="Click Me" Height="70" Width="100" MouseUp="Button_MouseUp" FontSize="18"></Button> -->
+        <!-- <Button Content="Click Me" Height="70" Width="100" PreviewMouseUp="Button_PreviewMouseUp" FontSize="18"></Button> -->
+        <Button Content="Click Me" Height="70" Width="100" PreviewMouseLeftButtonDown="Button_PreviewMouseLeftButtonDown" PreviewMouseRightButtonUp="Button_PreviewMouseRightButtonUp" FontSize="18"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\chira\source\repos\Events\Events\bin\Debug\Events.exe.config
+C:\Users\chira\source\repos\Events\Events\bin\Debug\Events.exe
+C:\Users\chira\source\repos\Events\Events\bin\Debug\Events.pdb
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\chira\source\repos\Events\Events\obj\Debug\MainWindow.g.cs
+C:\Users\chira\source\repos\Events\Events\obj\Debug\App.g.cs
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events_MarkupCompile.cache
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events_MarkupCompile.lref
+C:\Users\chira\source\repos\Events\Events\obj\Debug\MainWindow.baml
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.g.resources
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.exe
+C:\Users\chira\source\repos\Events\Events\obj\Debug\Events.pdb
